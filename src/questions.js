@@ -1,4 +1,4 @@
-export default [
+const questions = [
   {
     id: 'q1',
     text: 'Who was the first President of independent India?',
@@ -100,3 +100,5 @@ export default [
     ],
   },
 ];
+
+export default questions;
